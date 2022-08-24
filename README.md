@@ -6,3 +6,5 @@
 <h4 align="center"> 
 	🚧  PHP, LARAVEL, FIREBASE 🚀 Em construção...  🚧
 </h4>
+
+<p align="center">Esse projeto faz parte de uma série de projeto que utiliza várias linguagens de programação, afim de deixar a disposição uma página com login e autenticação pronta</p>
