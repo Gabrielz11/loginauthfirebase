@@ -8,3 +8,8 @@
 </h4>
 
 <p align="center">Esse projeto faz parte de uma série de projeto que utiliza várias linguagens de programação, afim de deixar a disposição uma página com login e autenticação pronta</p>
+
+## Estrutura de Iniciação
+<p align="center"> Primeiro iniciaremos o projeto utilizando a documentação do Laravel. </p>
+<p align="left"> Iremos utilizar a seguinte instrução para criarmos o projeto. </p>
+<p align="center"> composer create-project laravel/laravel loginauthproject, após isso iremos entrar na pasta do projeto e iniciar o artisan serve</p>
