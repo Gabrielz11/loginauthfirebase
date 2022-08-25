@@ -12,3 +12,6 @@
 ## Estrutura de Iniciação
 <p align="left"> Primeiro iniciaremos o projeto utilizando a documentação do Laravel. Iremos também utilizar a seguinte instrução para criarmos o projeto.</p>
 <p align="left"> composer create-project laravel/laravel loginauthproject, após isso iremos entrar na pasta do projeto e iniciar o artisan serve</p>
+
+<h4 align="center"> LOGIN </h4>
+<img src="imagens/template.jpg"/>
